@@ -2,7 +2,8 @@ import React from 'react'
 import './pchat.css'
 import AttachmentIcon from '@material-ui/icons/Attachment';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
-import Form from './Form.js'
+import Form from './Form.js';
+import Mess from './Mess.js'
 
 const Pchat = () => {
     return ( <
@@ -41,10 +42,7 @@ const Pchat = () => {
         div > <
         hr / >
         <
-        div className = "dummy" >
-        <
-        /div>
-
+        Mess / >
         <
         Form / >
         <

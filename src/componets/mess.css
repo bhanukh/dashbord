@@ -1,0 +1,25 @@
+.imsg {
+    height: 30px;
+    width: 30px;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+.pmsg {
+    font-size: 16px;
+    margin-top: 1.5rem;
+    line-height: 26px;
+    margin-left: 5px;
+    width: 20rem;
+    background-color: skyblue;
+    border-radius: 1rem;
+    padding: 9px;
+}
+
+.msg {
+    display: flex;
+}
+
+.demo {
+    height: 10rem;
+}
