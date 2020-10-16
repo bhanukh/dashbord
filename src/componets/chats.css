@@ -1,0 +1,65 @@
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #E6ECFE;
+    }
+    
+    .chats {
+        width: 597px;
+        height: auto;
+        margin-top: 90px;
+        margin-left: 40px;
+    }
+    
+    .ch {
+        font-size: 36px;
+        line-height: 26px;
+        letter-spacing: 1%;
+        color: #0D1C2E;
+    }
+    
+    .rc {
+        line-height: 26px;
+        font-size: 18px;
+        margin-top: -15px;
+    }
+    
+    .icon {
+        margin-bottom: -8px;
+    }
+    
+    .icons {
+        margin-bottom: -5px;
+    }
+    
+    .btn {
+        float: right;
+        margin-top: -90px;
+        margin-right: 1rem;
+        width: 240px;
+        height: 60px;
+        font-size: 20px;
+        line-height: 23px;
+        background-color: blueviolet;
+        color: white;
+        border-radius: 4%;
+        cursor: pointer;
+    }
+    
+    .search {
+        height: 70px;
+        width: 580px;
+        background-color: white;
+        border-radius: .6rem;
+        box-shadow: 2px 2px white;
+    }
+    
+    button {
+        margin: 1.4rem;
+        color: #707C97;
+        cursor: pointer;
+        size: 18px;
+        line-height: 26px;
+        border-style: none;
+        background: none;
+    }

@@ -1,0 +1,64 @@
+.use {
+    height: 220px;
+    width: 580px;
+    background-color: white;
+    margin-top: 2rem;
+    border-radius: .6rem;
+}
+
+.lr {
+    display: flex;
+}
+
+h3 {
+    size: 18px;
+    line-height: 21px;
+    color: #0D1C2E;
+    margin-bottom: 0;
+    margin-top: 1.5rem;
+}
+
+span {
+    font-size: 16px;
+}
+
+.user {
+    display: block;
+    margin: 0;
+}
+
+.chatimg {
+    height: 54px;
+    width: 54px;
+    margin: 1.5rem;
+}
+
+.time1 {
+    margin-top: 2rem;
+    margin-left: 12rem;
+    color: blueviolet;
+}
+
+.bt {
+    margin: -.6rem 0 0 1.5rem;
+    display: flex;
+}
+
+.btn1 {
+    height: 40px;
+    width: 110px;
+    border-radius: .5rem;
+    background-color: cadetblue;
+    color: white;
+}
+
+.dot1 {
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-left: 12rem;
+    margin-top: 2rem;
+}

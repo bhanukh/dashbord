@@ -1,0 +1,21 @@
+.form {
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+.ficon {
+    margin-left: 3rem;
+    display: block;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+input {
+    height: 3rem;
+    width: 23rem;
+    border: none;
+}
+
+.icon {
+    cursor: pointer;
+}
